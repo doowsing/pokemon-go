@@ -6,7 +6,7 @@
 
 ## 技术组成
 - 游戏前端界面基于vue完成
-- 后端服务采用Go语言开发，使用数据库包括mysql、redis
+- 后端服务采用Go语言开发，使用数据库包括mysql、redis-cluster
 - 主程序部分使用Gin框架开发，开放http接口给前端
 - 聊天与组队系统使用websocket库完成
 - 服务间使用rpc-json、http进行远程过程调用与交互
