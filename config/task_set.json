@@ -1,0 +1,36 @@
+{
+  "game_server": "http://127.0.0.1/scheduled",
+  "chat_server": "http://127.0.0.1:2020/check",
+  "task_list": [
+    {
+      "title": "物品过时",
+      "Description":"检查物品过时，1分钟执行一次",
+      "Scheduled": "0 */1 * * * *",
+      "JobName": "CheckUnExpireProp"
+    },
+    {
+      "title": "零数量道具",
+      "Description":"检查零数量道具，10分钟执行一次",
+      "Scheduled": "0 */10 * * * *",
+      "JobName": "DelZeroProp"
+    },
+    {
+      "title": "结束神圣战场",
+      "Description":"结束神圣战场，每周3/6 21点执行",
+      "Scheduled": "00 00 21 * * 3,6",
+      "JobName": "EndSSBattle"
+    },
+    {
+      "title": "扫雷每日记录",
+      "Description":"清理扫雷每日记录",
+      "Scheduled": "00 01 00 * * *",
+      "JobName": "ClearSaoLei"
+    },
+    {
+      "title": "检查聊天服务器",
+      "Description":"检查聊天服务器，1分钟执行一次",
+      "Scheduled": "0 */1 * * * *",
+      "JobName": "CheckChatServer"
+    }
+  ]
+}

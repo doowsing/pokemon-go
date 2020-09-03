@@ -1,0 +1,197 @@
+[
+  {
+    "id": 1,
+    "is_fb": false,
+    "name": "新手基地"
+  },
+  {
+    "id": 2,
+    "is_fb": false,
+    "name": "妖精森林"
+  },
+  {
+    "id": 3,
+    "is_fb": false,
+    "name": "潮汐海涯"
+  },
+  {
+    "id": 4,
+    "is_fb": false,
+    "name": "巨石山脉"
+  },
+  {
+    "id": 5,
+    "is_fb": false,
+    "name": "黄金陵"
+  },
+  {
+    "id": 6,
+    "is_fb": false,
+    "name": "炽热沙滩"
+  },
+  {
+    "id": 7,
+    "is_fb": false,
+    "name": "尤玛火山"
+  },
+  {
+    "id": 8,
+    "is_fb": false,
+    "name": "死亡沙漠"
+  },
+  {
+    "id": 9,
+    "is_fb": false,
+    "name": "海市盛楼"
+  },
+  {
+    "id": 10,
+    "is_fb": false,
+    "name": "冰滩"
+  },
+  {
+    "id": 16,
+    "is_fb": false,
+    "name": "海底世界"
+  },
+  {
+    "id": 15,
+    "is_fb": false,
+    "name": "圣诞小屋"
+  },
+  {
+    "id": 20,
+    "is_fb": false,
+    "name": "圣兽云殿"
+  },
+  {
+    "id": 100,
+    "is_fb": false,
+    "name": "石阵"
+  },
+  {
+    "id": 103,
+    "is_fb": false,
+    "name": "平原"
+  },
+  {
+    "id": 106,
+    "is_fb": false,
+    "name": "绿荫林"
+  },
+  {
+    "id": 109,
+    "is_fb": false,
+    "name": "五指石印"
+  },
+  {
+    "id": 112,
+    "is_fb": false,
+    "name": "鬼屋"
+  },
+  {
+    "id": 115,
+    "is_fb": false,
+    "name": "天空之城"
+  },
+  {
+    "id": 118,
+    "is_fb": false,
+    "name": "天之路"
+  },
+  {
+    "id": 121,
+    "is_fb": false,
+    "name": "危之路"
+  },
+  {
+    "id": 131,
+    "is_fb": false,
+    "name": "埋骨之地"
+  },
+  {
+    "id": 148,
+    "is_fb": false,
+    "name": "赎罪之塔"
+  },
+  {
+    "id": 140,
+    "is_fb": false,
+    "name": "巨石荒野"
+  },
+  {
+    "id": 125,
+    "is_fb": false,
+    "name": "琥珀屋"
+  },
+  {
+    "id": 137,
+    "is_fb": false,
+    "name": "迷雾森林"
+  },
+  {
+    "id": 134,
+    "is_fb": false,
+    "name": "孢子林"
+  },
+  {
+    "id": 145,
+    "is_fb": false,
+    "name": "蓝泪之泉"
+  },
+  {
+    "id": 13,
+    "is_fb": true,
+    "name": "史芬克斯密穴"
+  },
+  {
+    "id": 12,
+    "is_fb": true,
+    "name": "火龙王的宫殿"
+  },
+  {
+    "id": 151,
+    "is_fb": true,
+    "name": "伊苏王的神墓"
+  },
+  {
+    "id": 14,
+    "is_fb": true,
+    "name": "玲珑城"
+  },
+  {
+    "id": 143,
+    "is_fb": true,
+    "name": "熔岩地宫"
+  },
+  {
+    "id": 144,
+    "is_fb": true,
+    "name": "幻魔之境"
+  },
+  {
+    "id": 50,
+    "is_fb": true,
+    "name": "厄非斯深渊"
+  },
+  {
+    "id": 124,
+    "is_fb": true,
+    "name": "阿尔提密林"
+  },
+  {
+    "id": 127,
+    "is_fb": true,
+    "name": "菲拉苛地域"
+  },
+  {
+    "id": 11,
+    "is_fb": true,
+    "name": "辉煌的大道"
+  },
+  {
+    "id": 152,
+    "is_fb": true,
+    "name": "苏醒的火龙殿"
+  }
+]

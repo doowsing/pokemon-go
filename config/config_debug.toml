@@ -1,0 +1,30 @@
+# This block as  BlogServer Config
+server_name = "BlogServer"    # 服务器名称
+log_enable = true             # 是否开启日志
+#log_path = "/var/log/blogserver"  # 服务器日志输出路径
+#img_path = "/home/blogserver/images"  # 图片上传路径
+log_path = "/Users/track/Desktop/blog/log" # 服务器日志输出路径
+img_path = "/Users/track/Desktop/blog/img"  # 图片上传路径
+server_port = ":8080"           # 服务器端口号
+environment_prod = false      # 程序环境,正式环境设置为true
+secret_key = "UQPdFMLjszp35gpj" # 接口签名秘钥,前后端一致
+default_client_user = "GGNNN"   #客户端默认使用的账户
+session_expire = 60   #session过期时间，单位为分钟
+game_set_file = "../../config/game_set.json" # game_set.json的地址
+
+# This block as DBConfig struct
+[database]
+db_type = "mysql"              # 数据库类型
+db_name = "poke"               # 数据库名
+#db_addr = "47.107.237.251"          # 数据库URL
+db_addr = "127.0.0.1"          # 数据库URL
+db_port = "3306"               # 数据库端口
+db_user = "root"               # 账号
+#db_password = "Masknhs2018."          # 密码
+db_password = "123456"          # 密码
+db_debug = true                # 调试模式
+db_charset = "utf-8"                # 编码
+
+[redis]
+r_host = "127.0.0.1"
+r_port = "6379"
