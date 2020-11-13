@@ -16,11 +16,9 @@ game_set_file = "../../config/game_set.json" # game_set.json的地址
 [database]
 db_type = "mysql"              # 数据库类型
 db_name = "poke"               # 数据库名
-#db_addr = "47.107.237.251"          # 数据库URL
 db_addr = "127.0.0.1"          # 数据库URL
 db_port = "3306"               # 数据库端口
 db_user = "root"               # 账号
-#db_password = "Masknhs2018."          # 密码
 db_password = "123456"          # 密码
 db_debug = true                # 调试模式
 db_charset = "utf-8"                # 编码
